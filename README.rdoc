@@ -2,7 +2,7 @@
 
 DoneList is an app to track the things you do each day. Rather than thinking of everything you have to-do (which can be incredibly demotivating), focus instead on the things you accomplish. It can help you change your orientation to be more productive.
 
-Things you may want to cover:
+Details:
 
 * Ruby 2.2.4
 
