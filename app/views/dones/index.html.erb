@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Dones</title>
+  </head>
+  <body>
+    <h1><%= @readableDate %></h1>
+    <ul>
+    <% @dones.each do |done| %>
+      <li><%= done.item %></li>
+    <% end %>
+    </ul>
+  </body>
+</html>
