@@ -1,28 +1,11 @@
-== README
+== DoneList
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+DoneList is an app to track the things you do each day. Rather than thinking of everything you have to-do (which can be incredibly demotivating), focus instead on the things you accomplish. It can help you change your orientation to be more productive.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby 2.2.4
 
-* System dependencies
+* Rails 4.2.5
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+I'll update this more as I add functionality.
